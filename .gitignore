@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.DS_Store
+Thumbs.db
+kurlar_export_*.csv
+kurlar_export_*.json

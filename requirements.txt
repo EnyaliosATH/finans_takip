@@ -1,0 +1,2 @@
+# Opsiyonel: Yüklü olduğunda requests kullanılır, yüklü değilse standart kütüphane (urllib) otomatik devreye girer.
+requests>=2.28.0
